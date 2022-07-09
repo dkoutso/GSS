@@ -89,6 +89,8 @@ Determine if a persons performance on the wordsum test (WORDSUM) is independent 
 
 ##Results
 
+this is Question3
+
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
 ### Descriptive Results
